@@ -1,4 +1,4 @@
-# Welcome to Travelatr!
+ # Welcome to Travelatr!
 
 Travelatr is company with a singular vision: to enable people from all walks of life to write about their travels to spectacular destinations all over the globe in order to foster a sense of global community and a heightened cultural awareness.
 
@@ -19,8 +19,8 @@ For each model, we have a specific vision in mind:
 
 Blogger:
 
-1. Users should be able to create a new blogger
- 	- Bloggers should have unique names and ages above 0, and their bio should be over 30 characters long.
+<!-- 1. Users should be able to create a new blogger
+ 	- Bloggers should have unique names and ages above 0, and their bio should be over 30 characters long. -->
 2. Users should be able to see the profile page of a blogger. On this page, a user should see:
 	- The total likes on all of that blogger's posts
 	- A link to that blogger's featured post (the post with the most likes)
